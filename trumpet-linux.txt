@@ -1,0 +1,56 @@
+Aims and Objectives
+
+The trumpet-linux project is about a tool capable of assisting computer network users in their homes, in business and at industrial level troubleshooting networks problems.
+Most computer users only have superficial knowledge of how computer networks works and much less knowledge when segmenting the network structure in hardware and software layers. When a problem in the network arises, the trumpet-linux project aims to help the network user disentangle these layers, showing what is working and what is not working thus leading the user to the probable source of the problem.
+The trumpet-linux project aims to give a clear, precise, robust and independent vision of the network status facilitating the understanding of how a TCP/IP network works. This could save a lot of troubleshooting time, spare the end-user of unnecessary hassle, and improve the network efficiency.
+Similar expensive tools are already in use by computer technicians but the trumpet-linux project also aims to transform this kind of tool into a cheap, accessible and popular indispensable item for any size of computer network.
+
+In order to achieve these aims, the trumpet-linux will:
+
+1)	Test the network using simple techniques.
+2)	Provide a visual interface for quick interpretation of diagnostics.
+3)	Notify the user about the network status.
+4)	Use open-source software.
+5)	Utilize cheap embedded boards already produced.
+
+Network testing:
+	Using well known techniques, the trumpet-linux project will run a series of tests to diagnose the network using cable or wireless connections. 
+	
+The main tests comprehend:
+
+a)	Check whether a local machine or device is reachable.
+b)	Check whether a DHCP service is running.
+c)	Check whether a gateway device is reachable.
+d)	Check whether an external public address is reachable.
+e)	Check whether the DNS servers are resolving domain names.
+f)	Check whether other local devices are connected.
+g)	Check whether the network has packet loss.
+h)	Check whether the wireless is authenticating.
+i)	Check whether specific ports are open on specific devices.
+j)	New features as they are developed.
+
+2)	The visual Interface
+The user-friendly interface comprehends a touch screen LCD and a webpages where the user will be able to:
+a) Interpret the network status.
+b) Create, modify and delete tests.
+c) Include and exclude devices.
+d) Create, modify or delete notifications.
+e) Change system parameters.
+
+3)	Status notification:
+
+The trumpet-linux project will be able to notify the user using one or more of the following means of communication:
+a)	TFT screen.
+b)	Sound alarm.
+c)	Email.
+
+These notifications will be triggered by the result of the networks tests in the situation of pass, fail or both.
+
+Hardware
+
+Hardware must be cheap, accessible and for the masses, ideally under US$100.00 
+The utilization of embedded boards already made and largely available should reduce acquisition costs. 
+
+In this case, the device chosen is the latest Raspberry Pi B+ which has Ethernet and Wireless modules.
+
+No Hardware modification will be necessary and trumpet-linux project will be just software. 
