@@ -1,5 +1,5 @@
 # trumpet-linux-project
-The trumpet-linux project is about a tool capable of assisting computer network users in their homes, in business and at industrial level troubleshooting networks problems.
+The trumpet-linux project is about a tool (linux + raspberry pi b+) capable of assisting computer network users in their homes, in business and at industrial level troubleshooting networks problems.
 
 The trumpet-linux project is about a tool capable of assisting computer network users in their homes, in business and at industrial level troubleshooting networks problems.
 Most computer users only have superficial knowledge of how computer networks works and much less knowledge when segmenting the network structure in hardware and software layers. When a problem in the network arises, the trumpet-linux project aims to help the network user disentangle these layers, showing what is working and what is not working thus leading the user to the probable source of the problem.
